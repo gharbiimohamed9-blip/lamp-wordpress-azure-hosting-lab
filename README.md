@@ -105,12 +105,12 @@ lamp-wordpress-azure-hosting-lab/
 Aucun mot de passe, clé privée, `wp-config.php` réel, ni identifiant d'abonnement Azure n'est publié (voir `.gitignore`). Les valeurs sont des exemples.
 
 ## 📸 Aperçu
-<!-- Décommente après avoir ajouté tes captures dans screenshots/ -->
-<!--
-![Site WordPress en HTTPS](screenshots/06-wordpress-https.png)
-![Zone DNS avec dig](screenshots/08-dns-dig.png)
-![Sauvegarde et restauration](screenshots/09-backup-restore.png)
--->
+
+
+![Site WordPress en HTTPS](screenshots/06-3.png)
+![Zone DNS avec dig](screenshots/08-3.png)
+![Sauvegarde et restauration](screenshots/09-1.png)
+
 
 ## 📚 Compétences démontrées
 Microsoft Azure (VM, NSG, Network Watcher) · Linux Ubuntu · Apache · PHP · MySQL · WordPress · FTP/FTPS · DNS (BIND9) · SSL/TLS (Let's Encrypt) · cron · UFW · fail2ban · diagnostic par les logs · documentation technique.
