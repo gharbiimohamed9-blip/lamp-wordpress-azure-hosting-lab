@@ -108,8 +108,8 @@ Aucun mot de passe, clé privée, `wp-config.php` réel, ni identifiant d'abonne
 
 
 ![Site WordPress en HTTPS](screenshots/06-3.png)
-![Zone DNS avec dig](screenshots/08-3.png)
-![Sauvegarde et restauration](screenshots/09-1.png)
+![Site WordPress en HTTPS](screenshots/06-4.png)
+
 
 
 ## 📚 Compétences démontrées
