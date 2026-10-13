@@ -1,0 +1,10 @@
+# Secrets : ne jamais publier
+*.pem
+*.key
+*.crt
+wp-config.php
+.env
+*.sql
+*.sql.gz
+*.tar.gz
+monsite_backups*

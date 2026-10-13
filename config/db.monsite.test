@@ -1,0 +1,18 @@
+; /etc/bind/db.monsite.test : zone de démonstration (suffixe .test = non routable sur Internet)
+; Remplacer IP_PUBLIQUE. Chaque nom complet se termine par un point.
+$TTL 3600
+@   IN  SOA ns1.monsite.test. admin.monsite.test. (
+        2026100201 ; serial (AAAAMMJJNN, à incrémenter à chaque modification)
+        3600       ; refresh
+        1800       ; retry
+        604800     ; expire
+        3600 )     ; TTL négatif
+
+@     IN  NS    ns1.monsite.test.
+ns1   IN  A     IP_PUBLIQUE
+@     IN  A     IP_PUBLIQUE
+www   IN  CNAME monsite.test.
+ftp   IN  CNAME monsite.test.
+mail  IN  A     IP_PUBLIQUE
+@     IN  MX 10 mail.monsite.test.
+@     IN  TXT   "v=spf1 mx -all"

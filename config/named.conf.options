@@ -1,0 +1,11 @@
+// /etc/bind/named.conf.options
+// Serveur AUTORITAIRE uniquement : pas de résolveur ouvert (anti-amplification DNS)
+options {
+    directory "/var/cache/bind";
+    recursion no;
+    allow-recursion { none; };
+    allow-query { any; };
+    allow-transfer { none; };
+    dnssec-validation auto;
+    listen-on-v6 { none; };
+};

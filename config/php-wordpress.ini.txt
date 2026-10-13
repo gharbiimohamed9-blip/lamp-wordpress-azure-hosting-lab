@@ -1,0 +1,6 @@
+# Réglages appliqués à /etc/php/8.3/apache2/php.ini (via sed, voir docs/02)
+upload_max_filesize = 64M
+post_max_size = 64M
+memory_limit = 256M
+max_execution_time = 300
+expose_php = Off
