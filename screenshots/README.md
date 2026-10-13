@@ -15,6 +15,6 @@ Place ici tes 12 captures, nommées ainsi :
 | `09-backup-restore.png` | Sauvegardes, crontab, restauration réussie |
 | `10-hardening.png` | `fail2ban-client status sshd`, `ss -tulpn`, règles NSG finales |
 | `11-incident-avant-apres.png` | Un incident complet, avant / après |
-| `12-budget-autoshutdown.png` | Alerte de budget et arrêt automatique |
 
-> Floute : ID d'abonnement, e-mail, clés. Ne publie jamais de mot de passe.
+
+
