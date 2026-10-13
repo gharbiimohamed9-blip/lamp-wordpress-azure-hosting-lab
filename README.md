@@ -119,8 +119,8 @@ Microsoft Azure (VM, NSG, Network Watcher) · Linux Ubuntu · Apache · PHP · M
 Supervision (Azure Monitor), sauvegardes externes (Azure Backup / Blob Storage), WAF, Infrastructure as Code (Terraform / Bicep), haute disponibilité, domaine réel avec délégation DNS.
 
 ## 👤 Auteur
-**<TON NOM>** — Technicien support / administration systèmes
-[LinkedIn](https://www.linkedin.com/in/<ton-profil>) · [GitHub](https://github.com/<ton-user>)
+**<Mohamed gharbi>** 
+[LinkedIn](https://www.linkedin.com/in/<ton-profil>) 
 
 ## 📄 Licence
 [MIT](LICENSE)
